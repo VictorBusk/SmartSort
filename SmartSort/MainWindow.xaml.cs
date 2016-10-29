@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
@@ -24,6 +25,8 @@ namespace SmartSort
     {
         public MainWindow()
         {
+            Thread.CurrentThread.CurrentCulture = new CultureInfo("en");
+            Thread.CurrentThread.CurrentUICulture = new CultureInfo("en");
             InitializeComponent();
             this.Page.Children.RemoveRange(0, this.Page.Children.Count);
             this.Page.Children.Add(new HomeWindow());

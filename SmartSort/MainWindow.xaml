@@ -5,6 +5,7 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:SmartSort"
+        xmlns:p="clr-namespace:SmartSort.Properties"
         mc:Ignorable="d"
     AllowsTransparency="True"
         Title="SmartSort" Height="400" Width="601" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Background="Transparent" Icon="Image/icon.ico">
@@ -18,9 +19,9 @@
                 <Image x:Name="image_page" HorizontalAlignment="Left" Height="45" VerticalAlignment="Top" Width="44" Margin="5,5,0,0" Source="Image/home.png"/>
             </Grid>
             <Grid HorizontalAlignment="Left" Height="340" Background="#2e4053"  VerticalAlignment="Top" Width="151" Margin="0,60,0,0">
-                <Button x:Name="button_home" Content="Home" HorizontalAlignment="Left" Margin="0,10,0,0" VerticalAlignment="Top" Width="151" FontFamily="Franklin Gothic Demi Cond" FontSize="29.333" Background="#FF2E4053" Foreground="White" BorderThickness="0" MouseEnter="button_MouseEnter" MouseLeave="button_MouseLeave" Cursor="Hand" Click="mouse_Click"  />
-                <Button x:Name="button_rules" Content="Rules" HorizontalAlignment="Left" Margin="0,50,0,0" VerticalAlignment="Top" Width="151" FontFamily="Franklin Gothic Demi Cond" FontSize="29.333" Background="#FF2E4053" Foreground="White" BorderThickness="0" MouseEnter="button_MouseEnter" MouseLeave="button_MouseLeave" Cursor="Hand" Click="mouse_Click"  />
-                <Button x:Name="button_settings" Content="Settings" HorizontalAlignment="Left" Margin="0,90,0,0" VerticalAlignment="Top" Width="151" FontFamily="Franklin Gothic Demi Cond" FontSize="29.333" Background="#FF2E4053" Foreground="White" BorderThickness="0" MouseEnter="button_MouseEnter" MouseLeave="button_MouseLeave" Cursor="Hand" Click="mouse_Click" />
+                <Button x:Name="button_home" Content="{x:Static p:Resources.Home}" HorizontalAlignment="Left" Margin="0,10,0,0" VerticalAlignment="Top" Width="151" FontFamily="Franklin Gothic Demi Cond" FontSize="29.333" Background="#FF2E4053" Foreground="White" BorderThickness="0" MouseEnter="button_MouseEnter" MouseLeave="button_MouseLeave" Cursor="Hand" Click="mouse_Click"  />
+                <Button x:Name="button_rules" Content="{x:Static p:Resources.Rules}" HorizontalAlignment="Left" Margin="0,50,0,0" VerticalAlignment="Top" Width="151" FontFamily="Franklin Gothic Demi Cond" FontSize="29.333" Background="#FF2E4053" Foreground="White" BorderThickness="0" MouseEnter="button_MouseEnter" MouseLeave="button_MouseLeave" Cursor="Hand" Click="mouse_Click"  />
+                <Button x:Name="button_settings" Content="{x:Static p:Resources.Settings}" HorizontalAlignment="Left" Margin="0,90,0,0" VerticalAlignment="Top" Width="151" FontFamily="Franklin Gothic Demi Cond" FontSize="29.333" Background="#FF2E4053" Foreground="White" BorderThickness="0" MouseEnter="button_MouseEnter" MouseLeave="button_MouseLeave" Cursor="Hand" Click="mouse_Click" />
             </Grid>
             <Grid x:Name="Page" Height="340" Background="#e5e5e5"  Margin="151,60,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" Width="450"/>
             <Image x:Name="image2" HorizontalAlignment="Left" Height="50" VerticalAlignment="Top" Width="50" Source="Image/icon2.png" Margin="2,5,0,0"/>

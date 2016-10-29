@@ -70,3 +70,9 @@ C:\Users\Victor Busk\Documents\GitHub\SmartSort\SmartSort\obj\Debug\SmartSort.Pr
 C:\Users\Victor Busk\Documents\GitHub\SmartSort\SmartSort\obj\Debug\SmartSort.csproj.GenerateResource.Cache
 C:\Users\Mikkel\Documents\GitHub\SmartSort\SmartSort\obj\Debug\PopUp.g.cs
 C:\Users\Mikkel\Documents\GitHub\SmartSort\SmartSort\obj\Debug\PopUp.baml
+C:\Users\Victor Busk\Documents\GitHub\SmartSort\SmartSort\bin\Debug\da-DK\SmartSort.resources.dll
+C:\Users\Victor Busk\Documents\GitHub\SmartSort\SmartSort\obj\Debug\SmartSort.csprojResolveAssemblyReference.cache
+C:\Users\Victor Busk\Documents\GitHub\SmartSort\SmartSort\obj\Debug\PopUp.g.cs
+C:\Users\Victor Busk\Documents\GitHub\SmartSort\SmartSort\obj\Debug\PopUp.baml
+C:\Users\Victor Busk\Documents\GitHub\SmartSort\SmartSort\obj\Debug\SmartSort.Properties.Resources.da-DK.resources
+C:\Users\Victor Busk\Documents\GitHub\SmartSort\SmartSort\obj\Debug\da-DK\SmartSort.resources.dll
