@@ -1,0 +1,72 @@
+c:\users\mikkel\documents\visual studio 2015\Projects\SmartSort\SmartSort\bin\Debug\SmartSort.exe.config
+C:\Users\Mikkel\Dropbox\C# projekter\SmartSort\SmartSort\SmartSort\obj\Debug\App.g.cs
+C:\Users\Mikkel\Dropbox\C# projekter\SmartSort\SmartSort\SmartSort\obj\Debug\SmartSort_MarkupCompile.cache
+C:\Users\Mikkel\Dropbox\C# projekter\SmartSort\SmartSort\SmartSort\bin\Debug\SmartSort.exe.config
+C:\Users\Mikkel\Dropbox\C# projekter\SmartSort\SmartSort\SmartSort\bin\Debug\SmartSort.exe
+C:\Users\Mikkel\Dropbox\C# projekter\SmartSort\SmartSort\SmartSort\bin\Debug\SmartSort.pdb
+C:\Users\Mikkel\Dropbox\C# projekter\SmartSort\SmartSort\SmartSort\obj\Debug\MainWindow.g.cs
+C:\Users\Mikkel\Dropbox\C# projekter\SmartSort\SmartSort\SmartSort\obj\Debug\SmartSort_MarkupCompile.lref
+C:\Users\Mikkel\Dropbox\C# projekter\SmartSort\SmartSort\SmartSort\obj\Debug\MainWindow.baml
+C:\Users\Mikkel\Dropbox\C# projekter\SmartSort\SmartSort\SmartSort\obj\Debug\SmartSort.g.resources
+C:\Users\Mikkel\Dropbox\C# projekter\SmartSort\SmartSort\SmartSort\obj\Debug\SmartSort.Properties.Resources.resources
+C:\Users\Mikkel\Dropbox\C# projekter\SmartSort\SmartSort\SmartSort\obj\Debug\SmartSort.csproj.GenerateResource.Cache
+C:\Users\Mikkel\Dropbox\C# projekter\SmartSort\SmartSort\SmartSort\obj\Debug\SmartSort.exe
+C:\Users\Mikkel\Dropbox\C# projekter\SmartSort\SmartSort\SmartSort\obj\Debug\SmartSort.pdb
+C:\Users\Mikkel\Dropbox\C# projekter\SmartSort\SmartSort\SmartSort\obj\Debug\SmartSort.csprojResolveAssemblyReference.cache
+C:\Users\Victor Busk\Dropbox\SmartSort\SmartSort\SmartSort\bin\Debug\SmartSort.exe.config
+C:\Users\Victor Busk\Dropbox\SmartSort\SmartSort\SmartSort\obj\Debug\SmartSort.exe
+C:\Users\Victor Busk\Dropbox\SmartSort\SmartSort\SmartSort\obj\Debug\SmartSort.pdb
+C:\Users\Victor Busk\Dropbox\SmartSort\SmartSort\SmartSort\bin\Debug\SmartSort.exe
+C:\Users\Victor Busk\Dropbox\SmartSort\SmartSort\SmartSort\bin\Debug\SmartSort.pdb
+C:\Users\Victor Busk\Dropbox\SmartSort\SmartSort\SmartSort\obj\Debug\SmartSort.csprojResolveAssemblyReference.cache
+C:\Users\Victor Busk\Dropbox\SmartSort\SmartSort\SmartSort\obj\Debug\MainWindow.g.cs
+C:\Users\Victor Busk\Dropbox\SmartSort\SmartSort\SmartSort\obj\Debug\App.g.cs
+C:\Users\Victor Busk\Dropbox\SmartSort\SmartSort\SmartSort\obj\Debug\SmartSort_MarkupCompile.cache
+C:\Users\Victor Busk\Dropbox\SmartSort\SmartSort\SmartSort\obj\Debug\SmartSort_MarkupCompile.lref
+C:\Users\Victor Busk\Dropbox\SmartSort\SmartSort\SmartSort\obj\Debug\MainWindow.baml
+C:\Users\Victor Busk\Dropbox\SmartSort\SmartSort\SmartSort\obj\Debug\SmartSort.g.resources
+C:\Users\Victor Busk\Dropbox\SmartSort\SmartSort\SmartSort\obj\Debug\SmartSort.Properties.Resources.resources
+C:\Users\Victor Busk\Dropbox\SmartSort\SmartSort\SmartSort\obj\Debug\SmartSort.csproj.GenerateResource.Cache
+C:\Users\Mikkel\Documents\GitHub\SmartSort\SmartSort\bin\Debug\SmartSort.exe.config
+C:\Users\Mikkel\Documents\GitHub\SmartSort\SmartSort\bin\Debug\SmartSort.exe
+C:\Users\Mikkel\Documents\GitHub\SmartSort\SmartSort\bin\Debug\SmartSort.pdb
+C:\Users\Mikkel\Documents\GitHub\SmartSort\SmartSort\obj\Debug\HomeWindow.g.cs
+C:\Users\Mikkel\Documents\GitHub\SmartSort\SmartSort\obj\Debug\MainWindow.g.cs
+C:\Users\Mikkel\Documents\GitHub\SmartSort\SmartSort\obj\Debug\RuleWindow.g.cs
+C:\Users\Mikkel\Documents\GitHub\SmartSort\SmartSort\obj\Debug\SettingWindow.g.cs
+C:\Users\Mikkel\Documents\GitHub\SmartSort\SmartSort\obj\Debug\App.g.cs
+C:\Users\Mikkel\Documents\GitHub\SmartSort\SmartSort\obj\Debug\SmartSort_MarkupCompile.cache
+C:\Users\Mikkel\Documents\GitHub\SmartSort\SmartSort\obj\Debug\SmartSort_MarkupCompile.lref
+C:\Users\Mikkel\Documents\GitHub\SmartSort\SmartSort\obj\Debug\App.baml
+C:\Users\Mikkel\Documents\GitHub\SmartSort\SmartSort\obj\Debug\HomeWindow.baml
+C:\Users\Mikkel\Documents\GitHub\SmartSort\SmartSort\obj\Debug\MainWindow.baml
+C:\Users\Mikkel\Documents\GitHub\SmartSort\SmartSort\obj\Debug\RuleWindow.baml
+C:\Users\Mikkel\Documents\GitHub\SmartSort\SmartSort\obj\Debug\SettingWindow.baml
+C:\Users\Mikkel\Documents\GitHub\SmartSort\SmartSort\obj\Debug\SmartSort.g.resources
+C:\Users\Mikkel\Documents\GitHub\SmartSort\SmartSort\obj\Debug\SmartSort.Properties.Resources.resources
+C:\Users\Mikkel\Documents\GitHub\SmartSort\SmartSort\obj\Debug\SmartSort.csproj.GenerateResource.Cache
+C:\Users\Mikkel\Documents\GitHub\SmartSort\SmartSort\obj\Debug\SmartSort.exe
+C:\Users\Mikkel\Documents\GitHub\SmartSort\SmartSort\obj\Debug\SmartSort.pdb
+C:\Users\Mikkel\Documents\GitHub\SmartSort\SmartSort\obj\Debug\SmartSort.csprojResolveAssemblyReference.cache
+C:\Users\Victor Busk\Documents\GitHub\SmartSort\SmartSort\bin\Debug\SmartSort.exe.config
+C:\Users\Victor Busk\Documents\GitHub\SmartSort\SmartSort\obj\Debug\SmartSort.exe
+C:\Users\Victor Busk\Documents\GitHub\SmartSort\SmartSort\obj\Debug\SmartSort.pdb
+C:\Users\Victor Busk\Documents\GitHub\SmartSort\SmartSort\bin\Debug\SmartSort.exe
+C:\Users\Victor Busk\Documents\GitHub\SmartSort\SmartSort\bin\Debug\SmartSort.pdb
+C:\Users\Victor Busk\Documents\GitHub\SmartSort\SmartSort\obj\Debug\HomeWindow.g.cs
+C:\Users\Victor Busk\Documents\GitHub\SmartSort\SmartSort\obj\Debug\MainWindow.g.cs
+C:\Users\Victor Busk\Documents\GitHub\SmartSort\SmartSort\obj\Debug\RuleWindow.g.cs
+C:\Users\Victor Busk\Documents\GitHub\SmartSort\SmartSort\obj\Debug\SettingWindow.g.cs
+C:\Users\Victor Busk\Documents\GitHub\SmartSort\SmartSort\obj\Debug\App.g.cs
+C:\Users\Victor Busk\Documents\GitHub\SmartSort\SmartSort\obj\Debug\SmartSort_MarkupCompile.cache
+C:\Users\Victor Busk\Documents\GitHub\SmartSort\SmartSort\obj\Debug\SmartSort_MarkupCompile.lref
+C:\Users\Victor Busk\Documents\GitHub\SmartSort\SmartSort\obj\Debug\App.baml
+C:\Users\Victor Busk\Documents\GitHub\SmartSort\SmartSort\obj\Debug\HomeWindow.baml
+C:\Users\Victor Busk\Documents\GitHub\SmartSort\SmartSort\obj\Debug\MainWindow.baml
+C:\Users\Victor Busk\Documents\GitHub\SmartSort\SmartSort\obj\Debug\RuleWindow.baml
+C:\Users\Victor Busk\Documents\GitHub\SmartSort\SmartSort\obj\Debug\SettingWindow.baml
+C:\Users\Victor Busk\Documents\GitHub\SmartSort\SmartSort\obj\Debug\SmartSort.g.resources
+C:\Users\Victor Busk\Documents\GitHub\SmartSort\SmartSort\obj\Debug\SmartSort.Properties.Resources.resources
+C:\Users\Victor Busk\Documents\GitHub\SmartSort\SmartSort\obj\Debug\SmartSort.csproj.GenerateResource.Cache
+C:\Users\Mikkel\Documents\GitHub\SmartSort\SmartSort\obj\Debug\PopUp.g.cs
+C:\Users\Mikkel\Documents\GitHub\SmartSort\SmartSort\obj\Debug\PopUp.baml

@@ -1,0 +1,110 @@
+﻿<Application x:Class="SmartSort.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:SmartSort"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <!-- Tetbox design-->
+        <Style TargetType="{x:Type TextBox}">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type TextBox}">
+                        <Border BorderThickness="{TemplateBinding BorderThickness}" BorderBrush="{TemplateBinding BorderBrush}" Background="{TemplateBinding Background}" CornerRadius="5">
+                            <DockPanel>
+                                <ScrollViewer Background="Transparent" HorizontalAlignment="Stretch" x:Name="PART_ContentHost"/>
+                            </DockPanel>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <!-- Button design-->
+        <Style TargetType="{x:Type Button}">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border Background="{TemplateBinding Background}">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" Value="#47586a"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+
+
+        <!-- ComboBox Design-->
+
+        <Style TargetType="{x:Type ComboBox}">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type ComboBox}">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition/>
+                                <ColumnDefinition MaxWidth="18"/>
+                            </Grid.ColumnDefinitions>
+                            <TextBox Name="PART_EditableTextBox"
+                                 Style="{DynamicResource ComboBoxTextBoxStyle}"
+                                 Padding="5,0,0,0"
+                                 Height="{TemplateBinding Height}"/>
+                            <Border HorizontalAlignment="Right" VerticalAlignment="Center" BorderThickness="0" BorderBrush="White" CornerRadius="10" Padding="2">
+                                <ToggleButton Grid.Column="1" Margin="0" BorderThickness="1"
+                                     Height="{TemplateBinding Height}"
+                                     Style="{DynamicResource ComboBoxButtonStyle}"
+                                     Focusable="False"
+                                              BorderBrush="White"
+                                     IsChecked="{Binding Path=IsDropDownOpen, Mode=TwoWay, RelativeSource={RelativeSource TemplatedParent}}"
+                                      ClickMode="Press"  Background="White">
+                                <Path Grid.Column="1"
+                                  HorizontalAlignment="Center"
+                                  VerticalAlignment="Center"
+                                  Data="M 0 0 L 4 4 L 8 0 Z"
+                                  Fill="DodgerBlue"/>
+                            </ToggleButton>
+                            </Border>
+                            <ContentPresenter Name="ContentSite"
+                                      Content="{TemplateBinding SelectionBoxItem}"
+                                      ContentTemplate="{TemplateBinding SelectionBoxItemTemplate}"
+                                      ContentTemplateSelector="{TemplateBinding ItemTemplateSelector}"
+                                      VerticalAlignment="Center"
+                                      HorizontalAlignment="Left"
+                                      Margin="5,0,0,0"/>
+                            <Popup Name="Popup"
+                               Placement="Bottom"
+                               IsOpen="{TemplateBinding IsDropDownOpen}"
+                               AllowsTransparency="True" 
+                               Focusable="False"
+                               PopupAnimation="Slide">
+                                <Grid Name="DropDown"
+                                  SnapsToDevicePixels="True"                
+                                  MinWidth="{TemplateBinding ActualWidth}"
+                                  MaxHeight="{TemplateBinding MaxDropDownHeight}">
+                                    <Border 
+                                    x:Name="DropDownBorder"
+                                    BorderThickness="1"
+                                    CornerRadius="5"
+                                    Background="Azure"
+                                    BorderBrush="Black">
+
+                                    </Border>
+                                        <ScrollViewer Margin="4,6,4,6" SnapsToDevicePixels="True">
+                                        <StackPanel IsItemsHost="True" KeyboardNavigation.DirectionalNavigation="Contained" />
+                                    </ScrollViewer>
+
+                                </Grid>
+                            </Popup>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+
+
+    </Application.Resources>
+</Application>
