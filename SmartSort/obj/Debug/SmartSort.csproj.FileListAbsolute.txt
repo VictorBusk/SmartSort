@@ -76,3 +76,36 @@ C:\Users\Victor Busk\Documents\GitHub\SmartSort\SmartSort\obj\Debug\PopUp.g.cs
 C:\Users\Victor Busk\Documents\GitHub\SmartSort\SmartSort\obj\Debug\PopUp.baml
 C:\Users\Victor Busk\Documents\GitHub\SmartSort\SmartSort\obj\Debug\SmartSort.Properties.Resources.da-DK.resources
 C:\Users\Victor Busk\Documents\GitHub\SmartSort\SmartSort\obj\Debug\da-DK\SmartSort.resources.dll
+C:\Users\mbrba\Documents\GitHub\SmartSort\SmartSort\bin\Debug\SmartSort.exe.config
+C:\Users\mbrba\Documents\GitHub\SmartSort\SmartSort\obj\Debug\SmartSort.exe
+C:\Users\mbrba\Documents\GitHub\SmartSort\SmartSort\obj\Debug\SmartSort.pdb
+C:\Users\mbrba\Documents\GitHub\SmartSort\SmartSort\bin\Debug\SmartSort.exe
+C:\Users\mbrba\Documents\GitHub\SmartSort\SmartSort\bin\Debug\SmartSort.pdb
+C:\Users\mbrba\Documents\GitHub\SmartSort\SmartSort\bin\Debug\da-DK\SmartSort.resources.dll
+C:\Users\mbrba\Documents\GitHub\SmartSort\SmartSort\bin\Debug\Microsoft.Win32.TaskScheduler.dll
+C:\Users\mbrba\Documents\GitHub\SmartSort\SmartSort\bin\Debug\Microsoft.Win32.TaskScheduler.xml
+C:\Users\mbrba\Documents\GitHub\SmartSort\SmartSort\bin\Debug\de\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\mbrba\Documents\GitHub\SmartSort\SmartSort\bin\Debug\es\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\mbrba\Documents\GitHub\SmartSort\SmartSort\bin\Debug\fr\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\mbrba\Documents\GitHub\SmartSort\SmartSort\bin\Debug\it\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\mbrba\Documents\GitHub\SmartSort\SmartSort\bin\Debug\zh-CN\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\mbrba\Documents\GitHub\SmartSort\SmartSort\obj\Debug\SmartSort.csprojResolveAssemblyReference.cache
+C:\Users\mbrba\Documents\GitHub\SmartSort\SmartSort\obj\Debug\HomeWindow.g.cs
+C:\Users\mbrba\Documents\GitHub\SmartSort\SmartSort\obj\Debug\MainWindow.g.cs
+C:\Users\mbrba\Documents\GitHub\SmartSort\SmartSort\obj\Debug\PopUp.g.cs
+C:\Users\mbrba\Documents\GitHub\SmartSort\SmartSort\obj\Debug\RuleWindow.g.cs
+C:\Users\mbrba\Documents\GitHub\SmartSort\SmartSort\obj\Debug\SettingWindow.g.cs
+C:\Users\mbrba\Documents\GitHub\SmartSort\SmartSort\obj\Debug\App.g.cs
+C:\Users\mbrba\Documents\GitHub\SmartSort\SmartSort\obj\Debug\SmartSort_MarkupCompile.cache
+C:\Users\mbrba\Documents\GitHub\SmartSort\SmartSort\obj\Debug\SmartSort_MarkupCompile.lref
+C:\Users\mbrba\Documents\GitHub\SmartSort\SmartSort\obj\Debug\App.baml
+C:\Users\mbrba\Documents\GitHub\SmartSort\SmartSort\obj\Debug\HomeWindow.baml
+C:\Users\mbrba\Documents\GitHub\SmartSort\SmartSort\obj\Debug\MainWindow.baml
+C:\Users\mbrba\Documents\GitHub\SmartSort\SmartSort\obj\Debug\PopUp.baml
+C:\Users\mbrba\Documents\GitHub\SmartSort\SmartSort\obj\Debug\RuleWindow.baml
+C:\Users\mbrba\Documents\GitHub\SmartSort\SmartSort\obj\Debug\SettingWindow.baml
+C:\Users\mbrba\Documents\GitHub\SmartSort\SmartSort\obj\Debug\SmartSort.g.resources
+C:\Users\mbrba\Documents\GitHub\SmartSort\SmartSort\obj\Debug\SmartSort.Properties.Resources.resources
+C:\Users\mbrba\Documents\GitHub\SmartSort\SmartSort\obj\Debug\SmartSort.Properties.Resources.da-DK.resources
+C:\Users\mbrba\Documents\GitHub\SmartSort\SmartSort\obj\Debug\SmartSort.csproj.GenerateResource.Cache
+C:\Users\mbrba\Documents\GitHub\SmartSort\SmartSort\obj\Debug\da-DK\SmartSort.resources.dll
